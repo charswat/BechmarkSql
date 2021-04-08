@@ -1,0 +1,10 @@
+drop index pk_warehouse;
+drop index pk_district;
+drop index pk_customer;
+drop index pk_oorder;
+drop index ndx_oorder_carrier;
+drop index pk_new_order;
+drop index pk_order_line;
+drop index pk_stock;
+drop index pk_item;
+drop index pk_warehouse;

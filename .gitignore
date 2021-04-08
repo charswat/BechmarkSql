@@ -1,0 +1,9 @@
+bin/
+dist/
+run/log/
+.dbeaver
+.classpath
+.settings
+.project
+.DS_Store
+/target/
